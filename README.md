@@ -1,0 +1,3 @@
+# cmdforjavaswt
+实现打开cmd窗口并将它放在awt的gui窗口上去
+实测效果并不理想
